@@ -1,0 +1,49 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-14-10 23:5:8",
+  "loopSlideshow" : 0,
+  "filename" : "Без названия.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Без названия.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "8DC2E4C0-6458-4314-B880-DD1DDF2E0950",
+    "5FBAFF3A-BDD9-4D17-9546-D792A037E676",
+    "C9685117-F8C0-4E23-B40F-8256A21901E8",
+    "2819B8DF-1340-45E8-A654-ED5CAE9CAE93",
+    "B2A50295-4A2D-41EC-9961-B54749FD39A7"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 5,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "Lato-Bold",
+    "HelveticaNeue-Italic",
+    "Helvetica",
+    "ArialRoundedMTBold",
+    "Times-Roman",
+    "AA-Neon",
+    "Helvetica-Light",
+    "AppleBraille-Outline6Dot",
+    "ArciformSanscyr-lat-Regular",
+    "ArialMT",
+    "GillSans",
+    "HelveticaNeue-UltraLight",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue-Thin",
+    "HelveticaNeue",
+    "Helvetica-Bold",
+    "Arial-BoldMT"
+  ]
+}
